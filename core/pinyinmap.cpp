@@ -1,7 +1,7 @@
-// Copyright 2011, ZhongYi-i  Inc
+// Copyright 2011, ZhongYi Inc
 // Author: Windriver < http://windriver.github.io >
 
-﻿#include "pinyinmap.h"
+#include "pinyinmap.h"
 
 PinyinMap::PinyinMap()
 {
@@ -27,7 +27,7 @@ bool PinyinMap::pinyin_to_sy( const char* py_str, ShmuIdType* sm_id, YunmuIdType
 	char sm_str_arr[10];
 	char ym_str_arr[10];
 	int py_len, sm_len, ym_len;
-	
+
 	py_len = strlen( py_str );
 	if( 'h' == py_str[1] ) {
 		sm_len = 2;

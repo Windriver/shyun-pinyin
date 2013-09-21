@@ -1,7 +1,7 @@
-// Copyright 2011, ZhongYi-i  Inc
+// Copyright 2011, ZhongYi  Inc
 // Author: Windriver < http://windriver.github.io >
 
-﻿#include "lemmafetch.h"
+#include "lemmafetch.h"
 
 LemmaFetch::LemmaFetch()
 {
@@ -13,7 +13,7 @@ LemmaFetch::LemmaFetch()
 	for(size_t i = 0; i <= kMaxLemmaSize; i++) {
 		first_id_[i] = 0;
 	}
-	
+
 }
 
 LemmaFetch::~LemmaFetch()

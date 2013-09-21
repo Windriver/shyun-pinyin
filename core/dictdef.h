@@ -1,7 +1,4 @@
-// Copyright 2011, ZhongYi-i  Inc
-// Author: Windriver < http://windriver.github.io >
-
-// Copyright 2011, ZhongYi-i  Inc
+// Copyright 2011, ZhongYi Inc
 // Author: Windriver < http://windriver.github.io >
 
 #ifndef  __INCLUDE_DICTDEF_H__

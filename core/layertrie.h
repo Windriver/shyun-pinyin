@@ -1,4 +1,4 @@
-// Copyright 2011, ZhongYi-i  Inc
+// Copyright 2011, ZhongYi Inc
 // Author: Windriver < http://windriver.github.io >
 
 #ifndef  __INCLUDE_LAYERTRIE_H__

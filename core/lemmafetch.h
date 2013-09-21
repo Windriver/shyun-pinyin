@@ -1,7 +1,7 @@
-// Copyright 2011, ZhongYi-i  Inc
+// Copyright 2011, ZhongYi  Inc
 // Author: Windriver < http://windriver.github.io >
 
-﻿#ifndef __INCLUDE_LEMMAFETCH_H__
+#ifndef __INCLUDE_LEMMAFETCH_H__
 #define __INCLUDE_LEMMAFETCH_H__
 
 #include <stdio.h>

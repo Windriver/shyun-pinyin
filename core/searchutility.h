@@ -1,7 +1,7 @@
-// Copyright 2011, ZhongYi-i  Inc
+// Copyright 2011, ZhongYi Inc
 // Author: Windriver < http://windriver.github.io >
 
-﻿#ifndef __INCLUDE_SEARCHUTILITY_H__
+#ifndef __INCLUDE_SEARCHUTILITY_H__
 #define __INCLUDE_SEARCHUTILITY_H__
 
 #include "dictdef.h"
@@ -34,7 +34,7 @@ struct SentenceStateNode
 };
 
 //词元Id 和概率
-struct LmaPsbItem 
+struct LmaPsbItem
 {
 	LemmaIdType lemma_id;
 	float lemma_psb;

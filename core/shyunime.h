@@ -1,9 +1,8 @@
-// Copyright 2011, ZhongYi-i  Inc
+// Copyright 2011, ZhongYi Inc
 // Author: Windriver < http://windriver.github.io >
 
-#ifndef __INCLUDE_SHYUNIME_H__
-#define __INCLUDE_SHYUNIME_H__
+#ifndef SHYUN-PINYIN_CORE_SHYUNIME_H_
+#define SHYUN-PINYIN_CORE_SHYUNIME_H_
+#pragma once
 
-
-
-#endif //__INCLUDE_SHYUNIME_H__
+#endif  // SHYUN-PINYIN_CORE_SHYUNIME_H_
